@@ -23,7 +23,7 @@ The screenshot below shows the GUI with the sample Sudoku puzzle, placement/conf
 Requires Python 3 with Tkinter.
 
 ```bash
-python3 DAA_Sudoku.py
+python3 main.py
 ```
 
 No third-party Python packages are required.
